@@ -1,7 +1,7 @@
 ![egm](https://github.com/frohleon/egm/blob/0ce8b9f33f1ab95e816fad4bf21f7fbeb61d6a61/egm_demo.gif)
 
 
-This repository serves as a demo repository for the Evidence Gap Map described below.
+This repository serves as a demo repository for the Evidence Gap Map described below. The interactive Evidence Gap Map itself may be accessed via this link: https://frohleon.github.io/egm/.
 
 **About this interactive evidence gap map**
 
