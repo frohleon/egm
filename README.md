@@ -1,3 +1,6 @@
+![egm](https://github.com/frohleon/egm/blob/0ce8b9f33f1ab95e816fad4bf21f7fbeb61d6a61/egm_demo.gif)
+
+
 This repository serves as a demo repository for the Evidence Gap Map described below.
 
 **About this interactive evidence gap map**
@@ -17,5 +20,3 @@ Daikeler, J., Fröhling, L., Sen, I., Birkenmaier, L., Gummer, T., Schwalbach, J
 *Research Objectives:* To guide researchers in questions on data quality and to facilitate and incentivize interdisciplinary exchange on data quality criteria, we provide a comprehensive and systematic review of existing data quality frameworks which target on quantitative social science data. We limit this review to quantitative data as of reasons of resources. In doing so, we will focus on our four objectives:
 
 We will provide researchers with a decision tree to identify appropriate data quality frameworks for a given use case. We will determine which social science data types and quality dimensions are already addressed in the existing frameworks. Considering different data types, we will identify gaps that are not yet covered by existing quality frameworks, and that should be addressed by future research. We will provide a detailed literature overview for the intrinsic as well as the extrinsic perspective on data quality.
-
-![egm](https://github.com/frohleon/egm/blob/0ce8b9f33f1ab95e816fad4bf21f7fbeb61d6a61/egm_demo.gif)
